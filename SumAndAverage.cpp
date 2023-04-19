@@ -1,4 +1,4 @@
-//A C++ Program to calculate sum and average of three numbers
+//A C++ Program to calculate the sum and the average of three numbers entered by the end-user.
 
 #include <cmath>
 #include <cstdio>
